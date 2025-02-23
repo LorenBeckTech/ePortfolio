@@ -36,8 +36,8 @@ The Shape Monster Game is a text-based educational game designed to help childre
 - ### Artifact Enhancements
 
 [Database Enhancement](https://lorenbecktech.github.io/ePortfolio/database)<br/>
-[Software Engineering Enhancement](https://lorenbecktech.github.io/ePortfolio/softwareEngineering)<br/>
-[Data Structures / Algorithms Enhancement](https://lorenbecktech.github.io/ePortfolio/dataStructures)
+[Software Engineering Enhancement](https://lorenbecktech.github.io/ePortfolio/softwareengineering)<br/>
+[Data Structures / Algorithms Enhancement](https://lorenbecktech.github.io/ePortfolio/datastructures)<br/>
 
 
 

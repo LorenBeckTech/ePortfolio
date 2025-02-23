@@ -33,3 +33,11 @@ The Shape Monster Game is a text-based educational game designed to help childre
 
 - Game Class: Added a Game class to apply OOP principles and improve code organization.
 
+- ### Artifact Enhancements
+
+[Database Enhancement](https://davidmccannjr.github.io/ePortfolio/database)<br/>
+[Software Design / Engineering Enhancement](https://davidmccannjr.github.io/ePortfolio/softwareDesign)<br/>
+[Data Structures / Algorithms Enhancement](https://davidmccannjr.github.io/ePortfolio/dataStructures)
+
+
+

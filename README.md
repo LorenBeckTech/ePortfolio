@@ -3,7 +3,7 @@
 ## CS499 Capstone
 
 # Please review my repository with the relevant files:
-https://github.com/LorenBeckTech/ePortfolio.git
+[Repository] (https://github.com/LorenBeckTech/ePortfolio.git)
 
 
 # Shape Monster Game

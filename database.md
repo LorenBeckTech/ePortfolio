@@ -1,5 +1,8 @@
 # Database Enhancement
 
+## Narrative 
+[Narrative](https://lorenbecktech.github.io/ePortfolio/narrative/narrative)<br/>
+
 ## C++ Script
 
 ```C++

@@ -12,22 +12,22 @@ Reflecting on the process of enhancing and modifying the Shape Monster Game, I l
 
 ## Enhancements related to databases: 
 
-In the Shape Monster Game, CRUD (Create, Read, Update, Delete) operations are incorporated through the to-do list feature. Here’s how each of these operations is implemented:
+In the Shape Monster Game, CRUD (Create, Read, Update, Delete) operations are incorporated through the to-do list feature.
 
 Create
-The createTodoShape method is used to create new tasks in the to-do list. This method adds a new to-do item to the list with an incremented ID and a specified task, allowing the game to track the collection tasks that need to be completed.
+The createTodoShape method allows the player to create new tasks in the to-do list. This method adds a new to-do item to the list with an incremented ID and a specified task, allowing the game to track the collection tasks that need to be completed.
 
 Read
 The readTodoShape method allows the player to view all tasks in the to-do list. It displays each task’s ID, description, and completion status, enabling the player to keep track of their progress in collecting the shapes.
 
 Update
-The updateTodoShape method enables the player to mark a task as completed. By updating the completion status of a task based on its ID, the game keeps an accurate record of which shapes have been collected.
+The updateTodoShape method allows the player to mark a task as completed. By updating the completion status of a task based on its ID, the game keeps an accurate record of which shapes have been collected.
 
 Delete
 The deleteTodoShape method allows the player to remove a task from the to-do list. This makes sure that completed or irrelevant tasks can be cleared from the list, keeping it organized and focused on the rest of the tasks.
 
 # CRUD within the Game
-The to-do list menu provides the player with options to view, update, and delete tasks in the to-do list. This menu ensures that the player can interact with the to-do list in a user-friendly manner, performing CRUD operations as needed. This feature enhances the interactivity of the game by allowing players to manage their collection tasks effectively and track their progress in an engaging way.
+The to-do list menu provides the player with options to view, update, and delete tasks in the to-do list. This menu ensures that the player can interact with the to-do list in a user-friendly manner, performing CRUD operations as needed. This feature enhances the interactivity of the game by allowing players to manage their collection tasks effectively and track their progress in an educational and fun way.
 
 By incorporating CRUD operations into the Shape Monster Game, the to-do list feature enhances the game's interactivity and provides a practical demonstration of managing data within a software project.
 

@@ -39,5 +39,9 @@ The Shape Monster Game is a text-based educational game designed to help childre
 [Software Engineering Enhancement](https://lorenbecktech.github.io/ePortfolio/softwareengineering)<br/>
 [Data Structures / Algorithms Enhancement](https://lorenbecktech.github.io/ePortfolio/datastructures)<br/>
 
+- ### code review of enhanced code 
+
+[Code Review] (https://youtu.be/TdizOVmqHkc?si=deCYLJ-l8ix1PWTM)
+
 
 

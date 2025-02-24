@@ -1,5 +1,7 @@
 # Data Structures and Algorithm Enhancement
 
+# Second Enhancement (Enhanced from the Software Engineering and Enhancement) 
+
 ## Narrative
 
 The artifact that I chose is a text-based game called “Shape Monster Game,” which I originally created in 2022 during my IT-145 class using Python on Pycharm. The game is designed for children to help them practice reading by collecting shapes in different classrooms while avoiding the Shape Monster. The point of the game is to gather the shapes and return to the main office without meeting the running into the monster. The game is simple and educational, but it made a great project to show my coding skills.  

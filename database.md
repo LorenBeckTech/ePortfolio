@@ -33,7 +33,10 @@ By incorporating CRUD operations into the Shape Monster Game, the to-do list fea
 
 ## C++ Script
 
-```C++
+{% raw %}
+```cpp
+
+
 // MonsterGameDataStructuresAndAlgorithms.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
 #include <iostream>
@@ -109,5 +112,7 @@ private:
             {"Locker Room", {{"North", "Library"}, {"West", "Cafe"}, {"Shape", "Circle"}}}
         };
     }
+
+{% endraw %}
 
 [Return to Homepage](https://lorenbecktech.github.io/ePortfolio/)

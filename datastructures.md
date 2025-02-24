@@ -10,25 +10,18 @@ I exceeded the course outcomes I planned to achieve with the enhancements in Mod
 
 Reflecting on the process of enhancing and modifying the Shape Monster Game, I learned the importance of thorough testing and troubleshooting to make sure that the user has an enjoyable user experience. By testing the game with my son, I discovered that the theater room needed adjustments to provide a way out, highlighting the value of user feedback in identifying and addressing issues. I repeatedly played the game to identify and fix errors in the code, which showed how important debugging and using coding best practices for clean code is. This experience improved the game's functionality and also strengthened my problem-solving skills and attention to detail.
 
-## Enhancements related to datab Structures and Algorithms: 
+## Enhancements related to data Structures and Algorithms: 
 
-- Unordered Maps
-Unordered maps are used to represent the rooms and their connections. In your code, you have an unordered map that maps room names to their connected rooms and shapes. This structure provides efficient average-time complexity for insertions and lookups, making the game more responsive when navigating between rooms.
+- Unordered maps are used to represent the rooms and their connections. There is an unordered map that maps room names to their connected rooms and shapes. This structure provides efficient average-time complexity for insertions and lookups which makes the game more responsive. 
 
-- Hash Tables
-Hash tables are used internally by unordered maps and unordered sets to store key-value pairs. In your game, the unordered map of rooms and the unordered set of collected shapes leverage hash tables to provide efficient storage and retrieval of data.
+- Hash tables are used within the game by unordered maps and unordered sets to store key-value pairs. The unordered map of rooms and the unordered set of collected shapes leverage hash tables to provide efficient storage helps retrieve data. 
 
-- Unordered Sets
-The unordered set is used to keep track of the shapes collected by the player. This data structure allows for average-time complexity for insertions and lookups, ensuring that checking if a shape has already been collected is quick and efficient.
+- The unordered set is used to keep track of the shapes collected by the player. This helps with checking if a shape has already been collected and is quick and efficient.
 
-- Vectors
-Vectors are used to store the to-do list items and the shape collection. Vectors provide dynamic array functionality, allowing you to add and remove items as needed. The create, read, update, and delete methods use the to-do list vector to manage the tasks related to collecting shapes.
-
-- Game Class and Object-Oriented Programming (OOP)
-The Game class encapsulates the game's state and behavior, demonstrating the principles of Object-Oriented Programming (OOP). By organizing the game's logic within a class, you create a modular and maintainable code structure.
+- The Game class encapsulates the game's state and behavior with  Object-Oriented Programming (OOP) by organizing the game's logic within the class. 
 
 ## Algorithms
-Several algorithms are used throughout your game to enhance functionality:
+Several algorithms are used throughout the game
 
 - Random Room Selection: The random room function uses random number generation to select a room for the Shape Monster to hide in, adding an element of unpredictability to the game.
 

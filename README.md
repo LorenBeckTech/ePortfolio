@@ -44,4 +44,7 @@ The Shape Monster Game is a text-based educational game designed to help childre
 [Code Review](https://youtu.be/TdizOVmqHkc?si=deCYLJ-l8ix1PWTM)<br/>
 
 
+- ### Professional Self Assessment
+[Self-Assessment](https://lorenbecktech.github.io/ePortfolio/selfassessment)<br/>
+
 
